@@ -1,0 +1,12 @@
+Zoe Erpelding
+Final Project 
+CPSC324 Spring 2024
+
+readme
+
+abc_description_datasets_goals.pdf
+d_impelementation.pdf 
+e_presentation.pdf
+presentation_slides.pdf
+
+I chose Option 3 and created an end-to-end project using Cloud Shell, Cloud Storage, BigQuery, and Looker Studio. I used Heart Disease Mortality Rate, Income, and Insurance datasets. I created a machine learning model to predict mortality rates and two Looker Studio reports. 
