@@ -1,0 +1,316 @@
+19.0,6,71,1,"amc gremlin",1999
+18.0,6,71,1,"ford mustang",3322
+19.0,4,73,1,"ford pinto",2021
+21.5,3,77,3,"mazda rx-4",5470
+18.0,8,70,1,"chevrolet chevelle malibu",2881
+15.0,8,70,1,"buick skylark 320",2847
+18.0,8,70,1,"plymouth satellite",2831
+16.0,8,70,1,"amc rebel sst",3165.9375
+17.0,8,70,1,"ford torino",2778
+15.0,8,70,1,"ford galaxie 500",3137
+14.0,8,70,1,"chevrolet impala",3132
+14.0,8,70,1,"plymouth fury iii",3174
+14.0,8,70,1,"pontiac catalina",3164
+15.0,8,70,1,"amc ambassador dpl",3114
+25.285714285714285,4,70,2,"citroen ds-21 pallas",2170.0
+14.11111111111111,8,70,1,"chevrolet chevelle concours (sw)",3210
+14.11111111111111,8,70,1,"ford torino (sw)",3164
+14.11111111111111,8,70,1,"plymouth satellite (sw)",3191
+14.11111111111111,8,70,1,"amc rebel sst (sw)",2766
+15.0,8,70,1,"dodge challenger se",3914
+14.0,8,70,1,"plymouth 'cuda 340",3165.9375
+14.11111111111111,8,70,1,"ford mustang boss 302",3126
+15.0,8,70,1,"chevrolet monte carlo s",3165.9375
+14.0,8,70,1,"buick estate wagon (sw)",4226
+24.0,4,70,3,"toyota corona mark ii",2170
+22.0,6,70,1,"plymouth duster",2547
+18.0,6,70,1,"amc hornet",2271.0
+21.0,6,70,1,"ford maverick",1995
+27.0,4,70,3,"datsun pl510",2170.0
+26.0,4,70,2,"volkswagen 1131 deluxe sedan",2170.0
+25.0,4,70,2,"peugeot 504",2170.0
+24.0,4,70,2,"audi 100 ls",2170.0
+25.0,4,70,2,"saab 99e",2170.0
+26.0,4,70,2,"bmw 2002",2170.0
+21.0,6,70,1,"amc gremlin",2271.0
+10.0,8,70,1,"ford f250",3165.9375
+10.0,8,70,1,"chevy c20",3165.9375
+11.0,8,70,1,"dodge d200",3165.9375
+9.0,8,70,1,"hi 1200d",3165.9375
+27.0,4,71,3,"datsun pl510",2095.0
+28.0,4,71,1,"chevrolet vega 2300",2090
+25.0,4,71,3,"toyota corona",2150
+25.0,4,71,1,"ford pinto",1919
+27.46153846153846,4,71,2,"volkswagen super beetle 117",2095.0
+16.0,6,71,1,"plymouth satellite custom",3003
+17.0,6,71,1,"chevrolet chevelle malibu",2839.4285714285716
+19.0,6,71,1,"ford torino 500",2950
+18.0,6,71,1,"amc matador",3100
+14.0,8,71,1,"chevrolet impala",3813
+14.0,8,71,1,"pontiac catalina brougham",4154
+14.0,8,71,1,"ford galaxie 500",4164.166666666667
+14.0,8,71,1,"plymouth fury iii",3612
+12.0,8,71,1,"dodge monaco (sw)",4689
+13.0,8,71,1,"ford country squire (sw)",4074
+13.0,8,71,1,"pontiac safari (sw)",4643
+18.0,6,71,1,"amc hornet sportabout (sw)",2334
+22.0,4,71,1,"chevrolet vega (sw)",2328
+19.0,6,71,1,"pontiac firebird",3168
+23.0,4,71,1,"mercury capri 2000",2095.0
+28.0,4,71,2,"opel 1900",2095.0
+30.0,4,71,2,"peugeot 304",2479
+30.0,4,71,2,"fiat 124b",2081
+31.0,4,71,3,"toyota corolla 1200",1798
+35.0,4,71,3,"datsun 1200",2095.0
+27.0,4,71,2,"volkswagen model 111",2095.0
+26.0,4,71,1,"plymouth cricket",1915
+24.0,4,72,3,"toyota corona hardtop",2532
+25.0,4,72,1,"dodge colt hardtop",2233
+23.0,4,72,2,"volkswagen type 3",2549
+20.0,4,72,1,"chevrolet vega",2160
+21.0,4,72,1,"ford pinto runabout",2078
+13.0,8,72,1,"chevrolet impala",3979
+14.0,8,72,1,"pontiac catalina",4080
+15.0,8,72,1,"plymouth fury iii",3785
+14.0,8,72,1,"ford galaxie 500",3903.909090909091
+17.0,8,72,1,"amc ambassador sst",3902
+11.0,8,72,1,"mercury marquis",4572
+13.0,8,72,1,"buick lesabre custom",4291
+12.0,8,72,1,"oldsmobile delta 88 royale",4387
+13.0,8,72,1,"chrysler newport royal",4124
+19.0,3,72,3,"mazda rx2 coupe",2290
+15.0,8,72,1,"amc matador (sw)",3239
+13.0,8,72,1,"chevrolet chevelle concours (sw)",3244
+13.0,8,72,1,"ford gran torino (sw)",3903.909090909091
+14.0,8,72,1,"plymouth satellite custom (sw)",3340
+18.0,4,72,2,"volvo 145e (sw)",3890
+22.0,4,72,2,"volkswagen 411 (sw)",3275
+21.0,4,72,2,"peugeot 504 (sw)",4095
+26.0,4,72,2,"renault 12 (sw)",2695
+22.0,4,72,1,"ford pinto (sw)",2265
+28.0,4,72,3,"datsun 510 (sw)",2710.3333333333335
+23.0,4,72,3,"toyota corona mark ii (sw)",2710.3333333333335
+28.0,4,72,1,"dodge colt (sw)",2451
+27.0,4,72,3,"toyota corolla 1600 (sw)",2301
+13.0,8,73,1,"buick century 350",3057
+14.0,8,73,1,"amc matador",2986
+13.0,8,73,1,"chevrolet malibu",3010
+14.0,8,73,1,"ford gran torino",3015
+15.0,8,73,1,"dodge coronet custom",3129
+12.0,8,73,1,"mercury marquis brougham",5151
+13.0,8,73,1,"chevrolet caprice classic",4345
+13.0,8,73,1,"ford ltd",3950
+14.0,8,73,1,"plymouth fury gran sedan",4064
+13.0,8,73,1,"chrysler new yorker brougham",5413
+12.0,8,73,1,"buick electra 225 custom",4993
+13.0,8,73,1,"amc ambassador brougham",4477
+18.0,6,73,1,"plymouth valiant",2447
+16.0,6,73,1,"chevrolet nova custom",2641
+18.0,6,73,1,"amc hornet",2449
+18.0,6,73,1,"ford maverick",2248
+23.0,6,73,1,"plymouth duster",2376.6
+26.0,4,73,2,"volkswagen super beetle",2499
+11.0,8,73,1,"chevrolet impala",3836
+12.0,8,73,1,"ford country",3837.235294117647
+13.0,8,73,1,"plymouth custom suburb",3837.235294117647
+12.0,8,73,1,"oldsmobile vista cruiser",3789
+18.0,6,73,1,"amc gremlin",2098
+20.0,4,73,3,"toyota carina",2589
+21.0,4,73,1,"chevrolet vega",2192
+22.0,4,73,3,"datsun 610",3097.777777777778
+18.0,3,73,3,"maxda rx3",3295
+21.0,6,73,1,"mercury capri v6",2376.6
+26.0,4,73,2,"fiat 124 sport coupe",3674
+15.0,8,73,1,"chevrolet monte carlo",3837.235294117647
+16.0,8,73,1,"pontiac grand prix",4583
+29.0,4,73,2,"fiat 128",2195
+24.0,4,73,2,"opel manta",3097.777777777778
+20.0,4,73,2,"audi 100ls",4275
+19.0,4,73,2,"volvo 144ea",4340
+15.0,8,73,1,"dodge dart custom",2658
+24.0,4,73,2,"saab 99le",4095
+20.0,6,73,3,"toyota mark ii",2376.6
+11.0,8,73,1,"oldsmobile omega",2777
+20.0,6,74,1,"plymouth duster",2829
+21.0,6,74,1,"ford maverick",2790
+19.0,6,74,1,"amc hornet",2849
+15.0,6,74,1,"chevrolet nova",2919
+31.0,4,74,3,"datsun b210",3172.769230769231
+26.0,4,74,1,"ford pinto",2527
+32.0,4,74,3,"toyota corolla 1200",2199
+25.0,4,74,1,"chevrolet vega",2505
+16.0,6,74,1,"chevrolet chevelle malibu classic",3092.3333333333335
+16.0,6,74,1,"amc matador",3699
+18.0,6,74,1,"plymouth satellite sebring",3468
+16.0,8,74,1,"ford gran torino",3411
+13.0,8,74,1,"buick century luxus (sw)",4371
+14.0,8,74,1,"dodge coronet custom (sw)",3882
+14.0,8,74,1,"ford gran torino (sw)",4017
+14.0,8,74,1,"amc matador (sw)",3477
+29.0,4,74,2,"audi fox",3975
+26.0,4,74,2,"volkswagen dasher",4100
+26.0,4,74,2,"opel manta",3275
+31.0,4,74,3,"toyota corona",3344
+32.0,4,74,3,"datsun 710",3172.769230769231
+28.0,4,74,1,"dodge colt",2585
+24.0,4,74,2,"fiat 128",2684
+26.0,4,74,2,"fiat 124 tc",4343
+24.0,4,74,3,"honda civic",2545
+26.0,4,74,3,"subaru",2997
+31.0,4,74,2,"fiat x1.9",4167
+19.0,6,75,1,"plymouth valiant custom",3422
+18.0,6,75,1,"chevrolet nova",3280
+15.0,6,75,1,"mercury monarch",3892
+15.0,6,75,1,"ford maverick",3025
+16.0,8,75,1,"pontiac catalina",4700
+15.0,8,75,1,"chevrolet bel air",4345
+16.0,8,75,1,"plymouth grand fury",4565
+14.0,8,75,1,"ford ltd",4753
+17.0,6,75,1,"buick century",4022
+16.0,6,75,1,"chevroelt chevelle malibu",3445.181818181818
+15.0,6,75,1,"amc matador",3545
+18.0,6,75,1,"plymouth fury",3672
+21.0,6,75,1,"buick skyhawk",4173
+20.0,8,75,1,"chevrolet monza 2+2",3953
+13.0,8,75,1,"ford mustang ii",3801
+29.0,4,75,3,"toyota corolla",2711
+23.0,4,75,1,"ford pinto",2769
+20.0,6,75,1,"amc gremlin",2798
+23.0,4,75,1,"pontiac astro",3079
+24.0,4,75,3,"toyota corona",4379
+25.0,4,75,2,"volkswagen dasher",4700
+24.0,4,75,3,"datsun 710",4372.909090909091
+18.0,6,75,1,"ford pinto",2769
+29.0,4,75,2,"volkswagen rabbit",3330
+19.0,6,75,1,"amc pacer",3299
+23.0,4,75,2,"audi 100ls",6002
+23.0,4,75,2,"peugeot 504",6330
+22.0,4,75,2,"volvo 244dl",6595
+25.0,4,75,2,"saab 99le",5198
+33.0,4,75,3,"honda civic cvcc",3009
+28.0,4,76,2,"fiat 131",4286
+25.0,4,76,2,"opel 1900",4045.818181818182
+25.0,4,76,1,"capri ii",4045.818181818182
+26.0,4,76,1,"dodge colt",3175
+27.0,4,76,2,"renault 12tl",3899
+17.5,8,76,1,"chevrolet chevelle malibu classic",4455
+16.0,8,76,1,"dodge coronet brougham",4297
+15.5,8,76,1,"amc matador",3725
+14.5,8,76,1,"ford gran torino",5306.285714285715
+22.0,6,76,1,"plymouth valiant",3276
+22.0,6,76,1,"chevrolet nova",3413
+24.0,6,76,1,"ford maverick",3117
+22.5,6,76,1,"amc hornet",3199
+29.0,4,76,1,"chevrolet chevette",2558
+24.5,4,76,1,"chevrolet woody",4045.818181818182
+29.0,4,76,2,"vw rabbit",3499
+33.0,4,76,3,"honda civic",2939
+20.0,6,76,1,"dodge aspen se",4413
+18.0,6,76,1,"ford granada ghia",4353
+18.5,6,76,1,"pontiac ventura sj",3702
+17.5,6,76,1,"amc pacer d/l",3499
+29.5,4,76,2,"volkswagen rabbit",3499
+32.0,4,76,3,"datsun b-210",4045.818181818182
+28.0,4,76,3,"toyota corolla",2789
+26.5,4,76,1,"ford pinto",3025
+20.0,4,76,2,"volvo 245",7495
+13.0,8,76,1,"plymouth volare premier v8",3324
+19.0,4,76,2,"peugeot 504",7340
+19.0,6,76,3,"toyota mark ii",5121.777777777777
+16.5,6,76,2,"mercedes-benz 280s",17124
+16.5,8,76,1,"cadillac seville",12479
+13.0,8,76,1,"chevy c10",5087
+13.0,8,76,1,"ford f108",5306.285714285715
+13.0,8,76,1,"dodge d100",3777
+31.5,4,77,3,"honda accord cvcc",3299
+30.0,4,77,1,"buick opel isuzu deluxe",4196.166666666667
+36.0,4,77,2,"renault 5 gtl",4450
+25.5,4,77,1,"plymouth arrow gs",3654
+33.5,4,77,3,"datsun f-10 hatchback",4196.166666666667
+17.5,8,77,1,"chevrolet caprice classic",5307
+17.0,8,77,1,"oldsmobile cutlass supreme",4825
+15.5,8,77,1,"dodge monaco brougham",4408
+15.0,8,77,1,"mercury cougar brougham",4990
+17.5,6,77,1,"chevrolet concours",4111
+20.5,6,77,1,"buick skylark",3865
+19.0,6,77,1,"plymouth volare custom",3752
+18.5,6,77,1,"ford granada",4209
+16.0,8,77,1,"pontiac grand prix lj",5483
+15.5,8,77,1,"chevrolet monte carlo landau",4968
+15.5,8,77,1,"chrysler cordoba",5418
+16.0,8,77,1,"ford thunderbird",5063
+29.0,4,77,2,"volkswagen rabbit custom",4079
+24.5,4,77,1,"pontiac sunbird coupe",3659
+26.0,4,77,3,"toyota corolla liftback",3918
+25.5,4,77,1,"ford mustang ii 2+2",4183
+30.5,4,77,1,"chevrolet chevette",3225
+33.5,4,77,1,"dodge colt m/m",2999
+30.0,4,77,3,"subaru dl",3499
+30.5,4,77,2,"volkswagen dasher",5399
+22.0,6,77,3,"datsun 810",3984.25
+21.5,4,77,2,"bmw 320i",7990
+43.1,4,78,2,"volkswagen rabbit custom diesel",4699
+36.1,4,78,1,"ford fiesta",4799.076923076923
+32.8,4,78,3,"mazda glc deluxe",3145
+39.4,4,78,3,"datsun b210 gx",4799.076923076923
+36.1,4,78,3,"honda civic cvcc",3975
+19.9,8,78,1,"oldsmobile cutlass salon brougham",4877
+19.4,8,78,1,"dodge diplomat",5207
+20.2,8,78,1,"mercury monarch ghia",4571
+19.2,6,78,1,"pontiac phoenix lj",4399
+20.5,6,78,1,"chevrolet malibu",4394
+20.2,6,78,1,"ford fairmont (auto)",3744
+25.1,4,78,1,"ford fairmont (man)",3744
+20.5,6,78,1,"plymouth volare",3771
+19.4,6,78,1,"amc concord",3849
+20.6,6,78,1,"buick century special",4633
+20.8,6,78,1,"mercury zephyr",3897
+18.6,6,78,1,"dodge aspen",3911
+18.1,6,78,1,"amc concord d/l",3849
+19.2,8,78,1,"chevrolet monte carlo landau",4935
+17.7,6,78,1,"buick regal sport coupe (turbo)",5958
+18.1,8,78,1,"ford futura",5019.8
+17.5,8,78,1,"dodge magnum xe",5509
+30.0,4,78,1,"chevrolet chevette",3644
+27.5,4,78,3,"toyota corona",4574
+27.2,4,78,3,"datsun 510",4799.076923076923
+30.9,4,78,1,"dodge omni",3967
+21.1,4,78,3,"toyota celica gt liftback",5889
+23.2,4,78,1,"plymouth sapporo",6087
+23.8,4,78,1,"oldsmobile starfire sx",4306
+23.9,4,78,3,"datsun 200-sx",4799.076923076923
+20.3,5,78,2,"audi 5000",8780
+17.0,6,78,2,"volvo 264gl",10245
+21.6,4,78,2,"saab 99gle",6298
+16.2,6,78,2,"peugeot 604sl",10990
+31.5,4,78,2,"volkswagen scirocco",6095
+29.5,4,78,3,"honda accord lx",5965
+21.5,6,79,1,"pontiac lemans v6",5301
+19.8,6,79,1,"mercury zephyr 6",4888
+22.3,4,79,1,"ford fairmont 4",4383
+20.2,6,79,1,"amc concord dl 6",4324
+20.6,6,79,1,"dodge aspen 6",4399
+17.0,8,79,1,"chevrolet caprice classic",6508
+17.6,8,79,1,"ford ltd landau",6686
+16.5,8,79,1,"mercury grand marquis",7721
+18.2,8,79,1,"dodge stregis",6847
+16.9,8,79,1,"buick estate wagon (sw)",7169
+15.5,8,79,1,"ford country squire (sw)",7006
+19.2,8,79,1,"chevrolet malibu classic (sw)",5480
+18.5,8,79,1,"chrysler lebaron town @ country (sw)",6642
+31.9,4,79,2,"vw rabbit custom",4799
+34.1,4,79,3,"maxda glc deluxe",3995
+35.7,4,79,1,"dodge colt hatchback custom",4425
+27.4,4,79,1,"amc spirit dl",4133
+25.4,5,79,2,"mercedes benz 300d",21497
+23.0,8,79,1,"cadillac eldorado",14668
+27.2,4,79,2,"peugeot 504",8040
+23.9,8,79,1,"oldsmobile cutlass salon brougham",5442
+34.2,4,79,1,"plymouth horizon",4469
+34.5,4,79,1,"plymouth horizon tc3",4864
+31.8,4,79,3,"datsun 210",4741.363636363636
+37.3,4,79,2,"fiat strada custom",4496
+28.4,4,79,1,"buick skylark limited",4462
+28.8,6,79,1,"chevrolet citation",4698.8
+26.8,6,79,1,"oldsmobile omega brougham",4582
+33.5,4,79,1,"pontiac phoenix",4089
